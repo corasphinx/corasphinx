@@ -35,25 +35,25 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 <p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
-<details>	
+	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corasphinx&theme=github_dark" alt="corasphinx" align = "center"/></p>
-</details>
-<details>	
+
+
   <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=corasphinx&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="corasphinx" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=corasphinx&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="corasphinx" align = "center"/></p>
-</details>
-<details>
+
+
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=corasphinx&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="corasphinx" /></p>
-</details>
-<details>
+
+
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=corasphinx&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-</details>
-<details>   
+<!-- </details>
+<details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/corasphinx"><img src="https://github-profile-trophy.vercel.app/?username=corasphinx&margin-w=5&theme=radical" alt="corasphinx" /></a> </p>
-</details>
+
 <br>
